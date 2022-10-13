@@ -2,6 +2,7 @@ import { HashRouter, Routes, Route } from "react-router-dom";
 import HomePage from "./pages/HomePage";
 import MoviePage from "./pages/MoviePage";
 import PageNotFound from "./pages/PageNotFound";
+//This is the starting of the code
 function App() {
   return (
     <HashRouter>
